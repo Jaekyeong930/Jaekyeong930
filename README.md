@@ -17,3 +17,7 @@ Here are some ideas to get you started:
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jaekyeong930&show_icons=true&theme=radical)
 ![](./profile-3d-contrib/profile-green-animate.svg)
+<!--
+grass animation sample :
+https://github.com/yoshi389111/github-profile-3d-contrib#step-4-add-image-to-readmemd
+-->
